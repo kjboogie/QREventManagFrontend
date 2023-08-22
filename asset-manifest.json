@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QREventManagFrontend/static/css/main.e6c13ad2.css",
+    "main.js": "/QREventManagFrontend/static/js/main.6956ef24.js",
+    "static/js/787.cda612ba.chunk.js": "/QREventManagFrontend/static/js/787.cda612ba.chunk.js",
+    "index.html": "/QREventManagFrontend/index.html",
+    "main.e6c13ad2.css.map": "/QREventManagFrontend/static/css/main.e6c13ad2.css.map",
+    "main.6956ef24.js.map": "/QREventManagFrontend/static/js/main.6956ef24.js.map",
+    "787.cda612ba.chunk.js.map": "/QREventManagFrontend/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6956ef24.js"
+  ]
+}
